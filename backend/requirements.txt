@@ -1,0 +1,13 @@
+fastapi
+uvicorn
+sqlalchemy
+asyncpg
+passlib[bcrypt]
+httpx
+beautifulsoup4
+playwright
+google-api-python-client
+async-lru
+python-dotenv
+python-jose[cryptography] 
+python-multipart
