@@ -4,8 +4,6 @@ A simple full-stack app for booking beauty appointments. Features a FastAPI back
 
 ---
 
-## 🥉 Basic Level Features
-
 - **CRUD operations** for Users, Masters, Procedures, and Appointments (FastAPI backend)
 - **Frontend (React widget)** fetches and displays salon data from the backend
 
