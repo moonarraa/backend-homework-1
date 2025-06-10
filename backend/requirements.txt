@@ -11,3 +11,7 @@ async-lru
 python-dotenv
 python-jose[cryptography] 
 python-multipart
+celery
+redis
+a2a
+openai

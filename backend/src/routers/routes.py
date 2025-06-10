@@ -4,6 +4,7 @@ from fastapi import Query
 
 router = APIRouter(prefix="/api/salons", tags=["salons"])
 
+
 @router.get("/hair")
 async def get_hair_salons(
     skip: int = 0,
