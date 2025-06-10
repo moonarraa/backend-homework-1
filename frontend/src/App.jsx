@@ -2,6 +2,8 @@ import { useState } from "react";
 import Header from "./components/Header";
 import AISearchBar from "./components/AISearchBar";
 import SalonResults from "./components/SalonResults";
+import './index.css';
+
 
 export default function App() {
   const [salons, setSalons] = useState([]);
